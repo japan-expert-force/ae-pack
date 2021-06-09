@@ -3,9 +3,9 @@
 	"ambientocclusion": true,
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "Blocks/auto-excavator_displayPF",
-		"1": "Blocks/auto-excavator_corePF",
-		"particle": "Blocks/auto-excavator_displayPF"
+		"0": "blocks/ae-displayPF",
+		"1": "blocks/ae-corePF",
+		"particle": "Blocks/ae-corePF"
 	},
 	"elements": [
 		{
