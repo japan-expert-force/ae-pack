@@ -5,7 +5,7 @@
 	"textures": {
 		"0": "blocks/ae-displayPF",
 		"1": "blocks/ae-corePF",
-		"particle": "locks/ae-corePF"
+		"particle": "blocks/ae-corePF"
 	},
 	"elements": [
 		{
